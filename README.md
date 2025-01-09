@@ -1,6 +1,5 @@
 # Data Analysis Project - (Dicoding Submission - Belajar Analisis Data dengan Python (Learn Data Analysis with Python))
 
-
 ## Author:
 
 Ryan Gading Abdullah
@@ -12,11 +11,13 @@ December 2023
 ## Bike Sharing Dashboard ✨
 
 ### Setup environment
+
 ```
 pip install numpy pandas scipy matplotlib seaborn jupyter streamlit
 ```
 
 ### Run steamlit app
+
 ```
 streamlit run dashboard.py
 ```
