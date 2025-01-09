@@ -24,7 +24,7 @@ streamlit run dashboard.py
 
 ## Description:
 
-A simple bookshelf app that allows users to add, remove, search, and list books.
+This project implements a data analysis dashboard for bike-sharing data. It allows users to visualize and analyze bike-sharing trends, user demographics, and usage patterns using Python libraries like Pandas, Matplotlib, and Streamlit.
 
 ## LICENSE:
 
