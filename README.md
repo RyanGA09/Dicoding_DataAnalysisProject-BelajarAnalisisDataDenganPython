@@ -1,10 +1,10 @@
 # Data Analysis Project - (Dicoding Submission - Belajar Analisis Data dengan Python (Learn Data Analysis with Python))
 
-## Author:
+## Author
 
 Ryan Gading Abdullah
 
-## Date Created:
+## Date Created
 
 December 2023
 
@@ -12,21 +12,21 @@ December 2023
 
 ### Setup environment
 
-```
+```bash
 pip install numpy pandas scipy matplotlib seaborn jupyter streamlit
 ```
 
 ### Run steamlit app
 
-```
+```bash
 streamlit run dashboard.py
 ```
 
-## Description:
+## Description
 
 This project implements a data analysis dashboard for bike-sharing data. It allows users to visualize and analyze bike-sharing trends, user demographics, and usage patterns using Python libraries like Pandas, Matplotlib, and Streamlit.
 
-## LICENSE:
+## LICENSE
 
 &copy; 2023 Ryan Gading Abdullah. All rights reserved.
 
